@@ -1,6 +1,6 @@
 #include "sort.h"
-#define parent(x) (((x)-1) / 2)
-#define leftchild(x) (((x)*2) + 1)
+#define parent(x) (((x) - 1) / 2)
+#define leftchild(x) (((x) * 2) + 1)
 
 /**
  * swap - swaps 2 int values
